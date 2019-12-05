@@ -1,0 +1,30 @@
+
+  html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+  }
+
+
+.container {
+  padding-bottom: 50px;
+}
+
+#map {
+  height: 800px;
+  margin-top: 20px;
+}
+
+.spacer{
+  height: 200px;
+}
+
+footer{
+
+  background-color: rgb(6, 82, 49);
+  color: white;
+  text-align: center;
+  max-width: 600px;
+  border-radius:10px;
+  margin:auto;
+}
